@@ -1,0 +1,23 @@
+{
+  "greeting": "Halo",
+  "name": "Adzana Shaliha",
+  "greetingText": "Aku suka namamu btw, bagus!",
+  "wishText": "Semoga diberikan kesehatan dan kebahagiaan selalu oleh Tuhan ;)",
+  "imagePath": "img/adzana.png",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Happy birthday semoga semakin blah...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "JA",
+  "bigTextPart2": "DI",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
